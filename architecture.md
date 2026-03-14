@@ -1,3 +1,4 @@
+''' mermaid
 graph TD
     %% Define Styles
     classDef source fill:#1e3a8a,stroke:#fff,stroke-width:2px,color:#fff,rx:5px,ry:5px;
